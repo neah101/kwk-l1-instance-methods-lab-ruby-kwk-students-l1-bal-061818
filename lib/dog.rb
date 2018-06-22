@@ -14,5 +14,10 @@ class Person
     puts "hello world!"
   end
   
+  def walk
+    puts " the person is walking"
+  end 
+end
+  
   
   
